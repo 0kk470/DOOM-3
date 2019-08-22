@@ -1,3 +1,5 @@
+[Multibyte MFC Library for Visual Studio 2013](https://www.microsoft.com/en-us/download/details.aspx?id=40770)
+[DirectX 9 SDK DownLoad (June 2010)](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 Doom 3 GPL source release
 =========================
 
@@ -55,7 +57,7 @@ Back End Rendering of Stencil Shadows:
 --------------------------------------
 
 The Doom 3 GPL source code release does not include functionality enabling rendering
-of stencil shadows via the ìdepth failî method, a functionality commonly known as 
+of stencil shadows via the ‚Äúdepth fail‚Äù method, a functionality commonly known as 
 "Carmack's Reverse".
 
 MayaImport:
@@ -399,7 +401,7 @@ lines	file(s)
 225		neo/sys/linux/setup/brandelf.c
 
 /*-
- * Copyright (c) 1996 S¯ren Schmidt
+ * Copyright (c) 1996 S√∏ren Schmidt
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
@@ -431,5 +433,5 @@ lines	file(s)
 makeself - Make self-extractable archives on Unix
 --------------------------------------------------------------------------- 
 neo/sys/linux/setup/makeself/*, neo/sys/linux/setup/makeself/README
-Copyright (c) StÈphane Peter
+Copyright (c) St√©phane Peter
 Licensing: GPL v2
