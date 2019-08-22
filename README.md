@@ -1,3 +1,9 @@
+Hi there
+=========================
+I upgrade this project's Visual Studio version to 2013 instead of vs2010, so that it will be more convenient to read and build.
+
+Here are some dev kits you should install first.
+
 [Multibyte MFC Library for Visual Studio 2013](https://www.microsoft.com/en-us/download/details.aspx?id=40770)
 
 
